@@ -1,5 +1,5 @@
 # Language Technology Projects from University of Groningen's LCT Master Program
-It involves a lot of the foundational machine learning and data science for Natural Language Processing and Computational Linguistics 
+In this project-based course, students are going to work on a natural language processing challenge. A challenge is a practical task in NLP related to a particular research topic. The task usually comes with data-sets for training, as well as a precise evaluation metric. The intention is that students familiarize themselves with a selected research topic, implement a solution and present the outcome critically in a term paper. The course is a mix of lectures, exercises and project-based work. The focus of this class is on deep learning (neural networks) for NLP.
 1.) [Introduction to Machine Learning](https://github.com/tatkins20/masters-langtechproj-notebooks/blob/main/ltp-notebooks-201920-master/01_Intro_to_ML.ipynb)\
 2.) [Text Data and Evaluation](https://github.com/tatkins20/masters-langtechproj-notebooks/blob/main/ltp-notebooks-201920-master/02_Text_Data_and_Evaluation.ipynb)\
 3.) [Introduction to Feedforward Neural Networks](https://github.com/tatkins20/masters-langtechproj-notebooks/blob/main/ltp-notebooks-201920-master/03_Introduction_Feedforward_Neural_Network.ipynb)\
