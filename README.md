@@ -5,5 +5,5 @@ It involves a lot of the foundational machine learning and data science for Natu
 3.) [Introduction to Feedforward Neural Networks](https://github.com/tatkins20/masters-langtechproj-notebooks/blob/main/ltp-notebooks-201920-master/03_Introduction_Feedforward_Neural_Network.ipynb)\
 4.) [Neural Networks Graph View](https://github.com/tatkins20/masters-langtechproj-notebooks/blob/main/ltp-notebooks-201920-master/04_Neural_Networks_Graph_View.ipynb)\
 5.) [Neural Networks - Representations](https://github.com/tatkins20/masters-langtechproj-notebooks/blob/main/ltp-notebooks-201920-master/05_Representations.ipynb)\
-6.) [Recurrent Neural Networks](https://github.com/tatkins20/masters-langtechproj-notebooks/blob/main/ltp-notebooks-201920-master/06_RNN.ipynb)
+6.) [Recurrent Neural Networks](https://github.com/tatkins20/masters-langtechproj-notebooks/blob/main/ltp-notebooks-201920-master/06_RNN.ipynb)\
 7.) [Neural Networks - Attention](https://github.com/tatkins20/masters-langtechproj-notebooks/blob/main/ltp-notebooks-201920-master/07_Attention.ipynb)
